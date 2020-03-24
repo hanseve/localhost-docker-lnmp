@@ -1,0 +1,4 @@
+log
+data/mysql
+data/redis
+app/default/myapp
